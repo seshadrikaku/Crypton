@@ -1,0 +1,22 @@
+ [
+    {
+      "title": "Revenue",
+      "percentage": "10%",
+      "amount": "$2.047"
+    },
+    {
+      "title": "Orders",
+      "value": "356",
+      "percentage": "20%"
+    },
+    {
+      "title": "Dine in",
+      "value": "220",
+      "percentage": "10%"
+    },
+    {
+      "title": "Take Away",
+      "value": "135",
+      "percentage": "5%"
+    }
+  ]

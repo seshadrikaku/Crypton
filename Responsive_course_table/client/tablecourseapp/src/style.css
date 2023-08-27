@@ -1,0 +1,52 @@
+.App {
+    background-color: whitesmoke;
+}
+
+.h2 {
+    font-weight: bold;
+    color: rgb(30, 25, 25);
+    font-family: arial;
+}
+
+.t-headings th {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(144, 119, 119);
+}
+
+.courseName {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.courseName span {
+    font-size: 12px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(157, 153, 148);
+}
+
+.date {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: rgb(68, 84, 84);
+
+}
+
+.completed-lessons {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+
+.completed-lessons span {
+    color: rgb(97, 96, 94);
+}
+
+.duration {
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+}
+

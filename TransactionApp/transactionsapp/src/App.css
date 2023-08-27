@@ -1,0 +1,58 @@
+#container {
+  background-color: aliceblue;
+}
+
+.transaction-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px;
+  border: none;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.transaction-item:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;}
+
+#img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.h2 {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.name {
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.date_time {
+  font-size: 20px;
+  font-weight: 100;
+  font-family: sans-serif;
+  color: rgb(201, 139, 160);
+}
+
+.amount {
+  font-size: 28px;
+  font-weight: bold;
+  color: goldenrod;
+}
+
+.type {
+  font-size: 20px;
+  margin-left: 10px;
+  color: rgb(17, 15, 15);
+  font-weight: 500;
+}
+.outgoing{
+  color: red;
+}
